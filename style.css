@@ -3,9 +3,13 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1 {
+h1,
+h2 {
     background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
     font-size: 48px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
