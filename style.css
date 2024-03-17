@@ -16,6 +16,8 @@ h1 {
 
 img {
     float: left;
+    padding: 20px 20px;
+    background-color: lightgray;
 }
 
 .no-float {
