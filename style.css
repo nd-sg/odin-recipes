@@ -2,3 +2,10 @@
     background-color: aliceblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h1 {
+    background-color: lightgray;
+    font-size: 48px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
